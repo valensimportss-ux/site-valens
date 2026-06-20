@@ -2,3 +2,6 @@
 .vercel
 node_modules
 *.log
+# Auto-save
+.autosave.pid
+.autosave.log
